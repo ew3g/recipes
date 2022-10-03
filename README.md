@@ -4,7 +4,7 @@ A ReactJS app for learning purpose that gets data from a json file.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Live Demo] (https://lukeskywallk.github.io/recipes/)
+## [Live Demo] (https://ew3g.github.io/recipes/)
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Any improvement woud be nice.
 
 ## Authors
--    **Edilson Rodrigues** - *Initial work* - [lukeSkywallk](https://github.com/lukeSkywallk)
+-    **Edilson Rodrigues** - *Initial work* - [lukeSkywallk](https://github.com/ew3g)
 
 ## Acknowledgments
 - **Adriano Ferreira** - *Created the afrodite.js, here referenced as recipes.json, that contains all the recipes data* - [adrianosferreira](https://github.com/adrianosferreira)
